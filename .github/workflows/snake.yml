@@ -9,10 +9,11 @@ permissions:
   contents: write
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
 
     steps:
+      # 1. Generate snake SVG
       - name: Generate GitHub Contribution Snake
         uses: Platane/snk@v3
         with:
@@ -20,14 +21,15 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Push Snake to Output Branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      # 2. Debug output (IMPORTANT for troubleshooting)
+      - name: Debug generated files
+        run: ls -R dist
+
+      # 3. Deploy to output branch
+      - name: Deploy snake to output branch
+        uses: peaceiris/actions-gh-pages@v4
         with:
-          target_branch: output
-          build_dir: dist
-          commit_message: "Generate contribution snake"
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: output
+          publish_dir: dist
