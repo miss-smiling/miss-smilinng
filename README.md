@@ -80,6 +80,11 @@ currently:
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/miss-smiling/miss-smiling/output/github-snake.svg">
 </picture>
 <br>
+
+────────────────────────────────────────✿────────────────────────────────────────
+<br>
+
+
 ## 🌿 what i'm working towards
 - ☐ 🏆 Win a national-level hackathon
 - ☐🌍 Earn recognition on an international stage
