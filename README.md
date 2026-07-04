@@ -5,9 +5,14 @@
 | |\  | |___|  _  |/ ___ \
 |_| \_|_____|_| |_/_/   \_\
 ```
-> student @ UMIT ·curious builder· learning by building
 
-<center> ![](https://komarev.com/ghpvc/?username=miss-smiling&label=Profile%20views&color=ff69b4&style=flat)</center>
+
+<p align="center">
+ > student @ UMIT ·curious builder· learning by building
+  <img src="https://komarev.com/ghpvc/?username=miss-smiling&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/miss-smiling/miss-smiling/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/miss-smiling/miss-smiling/output/github-snake.svg">
