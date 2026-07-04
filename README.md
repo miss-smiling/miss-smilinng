@@ -5,11 +5,16 @@
 | |\  | |___|  _  |/ ___ \
 |_| \_|_____|_| |_/_/   \_\
 ```
+<div align="center">
 
+### 🌸 Student @ UMIT
+
+**Curious Builder • Learning by Building**
+
+</div>
 
 <p align="center">
- > student @ UMIT ·curious builder· learning by building 
- <br>
+
   <img src="https://komarev.com/ghpvc/?username=miss-smiling&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
 
