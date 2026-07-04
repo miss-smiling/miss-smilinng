@@ -1,10 +1,12 @@
 
+[38;2;255;105;180m
 ███╗   ██╗███████╗██╗  ██╗ █████╗
 ████╗  ██║██╔════╝██║  ██║██╔══██╗
 ██╔██╗ ██║█████╗  ███████║███████║
 ██║╚██╗██║██╔══╝  ██╔══██║██╔══██║
 ██║ ╚████║███████╗██║  ██║██║  ██║
 ╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝
+[0m
 > student @ UMIT ·curious builder· learning by building
 ![](https://komarev.com/ghpvc/?username=miss-smiling&label=Profile%20views&color=ff69b4&style=flat)
 <picture>
