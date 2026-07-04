@@ -17,7 +17,7 @@
 
   <img src="https://komarev.com/ghpvc/?username=miss-smiling&label=Profile%20Views&color=ff69b4&style=for-the-badge" alt="Profile Views" />
 </p>
-─────────────────────────────────────✿─────────────────────────────────────
+───────────────────────────────────────✿───────────────────────────────────────
 <br>
 ### 🌺 loading...
 
